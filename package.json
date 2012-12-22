@@ -1,0 +1,14 @@
+{
+    "name": "Do.js",
+    "description": "A simple queue written in JavaScript which runs asynchronous jobs in order as if they were synchronous.",
+    "version": "0.0.1",
+    "author": "neekey <ni184775761@gmail.com>",
+    "keywords": [ "Do.js" ],
+    "main": "index.js",
+    "repository": {
+    "type": "git",
+        "url": "git@github.com:neekey/Do.js.js.git"
+    },
+    "dependencies": {
+    }
+}
