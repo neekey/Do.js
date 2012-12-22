@@ -1,5 +1,5 @@
 {
-    "name": "Do.js",
+    "name": "dojs",
     "description": "A simple queue written in JavaScript which runs asynchronous jobs in order as if they were synchronous.",
     "version": "0.0.1",
     "author": "neekey <ni184775761@gmail.com>",
